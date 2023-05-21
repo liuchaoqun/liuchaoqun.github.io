@@ -14,3 +14,4 @@ My research interests include Natural Language Processing and Deep Learning.
 
 # News
 * Aug-2021 - Join NTU as a PhD candidate.
+* May-2023 - One paper accepted at ACL 2023.
