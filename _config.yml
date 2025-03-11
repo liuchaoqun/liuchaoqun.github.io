@@ -9,7 +9,7 @@
 locale                   : "sg-SG"
 title                    : "Liu Chaoqun"
 title_separator          : "-"
-name                     : &name "Liu Chaoqun"
+name                     : &name "Liu Chaoqun (刘超群)"
 description              : &description "PhD student at NTU"
 url                      : https://liuchaoqun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
