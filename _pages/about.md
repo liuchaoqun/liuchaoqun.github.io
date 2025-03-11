@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am I am currently under a joint PhD programme between [Alibaba DAMO Academy](https://damo.alibaba.com/) and [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/), under the supervision of Prof. [Luu Anh Tuan](https://tuanluu.github.io/). During my PhD, I collaborated extensively with Dr. [Wenxuan Zhang](https://isakzhang.github.io/) and Dr. [Lidong Bing](https://lidongbing.github.io/). Before that, I got my Master of Engineering degree and Bachelor of Engineering degree with First Class Honours at Nanyang Technological University, Singapore.
 
-My research interests include Low-resource Natural Language Processing and Large Language Models.
+My research interests include Low-resource Natural Language Processing, Multilingual and Multimodal Large Language Models.
 
 <!-- # News
 * May-2023 - One paper accepted at ACL 2023.
