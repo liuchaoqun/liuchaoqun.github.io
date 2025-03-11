@@ -30,19 +30,19 @@ My research interests include Low-resource Natural Language Processing, Multilin
    _ACL 2024 System Demostration_ \[[Project Page](https://damo-nlp-sg.github.io/DAMO-SeaLLMs)\] \[[Model](https://huggingface.co/collections/SeaLLMs/seallms-65be16f92e67686440ae29f3)\] \[[DEMO](https://huggingface.co/spaces/SeaLLMs/SeaLLM-Chat)\] \[[Code](https://github.com/DAMO-NLP-SG/SeaLLMs)\] \[[Technical Report](https://arxiv.org/abs/2312.00738)\] 
 
 # Selected Publications \[[Google Scholar](https://scholar.google.com/citations?user=oKL6xrcAAAAJ&hl=en)\]
-* [Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models](https://arxiv.org/abs/2403.10258)
+* [Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models](https://arxiv.org/abs/2403.10258)   
   **Chaoqun Liu**, Wenxuan Zhang, Yiran Zhao, Anh Tuan Luu, Lidong Bing   
   _NAACL 2025_ \[[Paper](https://arxiv.org/abs/2403.10258)\]\[[Code](https://liuchaoqun.github.io/)\]
 
-* [SeaExam and SeaBench: Benchmarking LLMs with Local Multilingual Questions in Southeast Asia](https://arxiv.org/abs/2502.06298)
+* [SeaExam and SeaBench: Benchmarking LLMs with Local Multilingual Questions in Southeast Asia](https://arxiv.org/abs/2502.06298)   
   **Chaoqun Liu**, Wenxuan Zhang, Jiahao Ying, Mahani Aljunied, Anh Tuan Luu, Lidong Bing     
   _Findings of NAACL 2025_ \[[Paper](https://arxiv.org/abs/2502.06298)\]\[[Code](https://liuchaoqun.github.io/)\]
   
-* [Zero-to-Strong Generalization: Eliciting Strong Capabilities of Large Language Models Iteratively without Gold Labels](https://arxiv.org/abs/2409.12425)
+* [Zero-to-Strong Generalization: Eliciting Strong Capabilities of Large Language Models Iteratively without Gold Labels](https://arxiv.org/abs/2409.12425)   
   **Chaoqun Liu**, Qin Chao, Wenxuan Zhang, Xiaobao Wu, Boyang Li, Anh Tuan Luu, Lidong Bing    
   _COLING 2025_ \[[Paper](https://arxiv.org/abs/2409.12425)\]\[[Code](https://liuchaoqun.github.io/)\]
 
-* [Zero-Shot Text Classification via Self-Supervised Tuning](https://arxiv.org/abs/2305.11442)
+* [Zero-Shot Text Classification via Self-Supervised Tuning](https://arxiv.org/abs/2305.11442)    
   **Chaoqun Liu**, Wenxuan Zhang, Guizhen Chen, Xiaobao Wu, Anh Tuan Luu, Chip Hong Chang, Lidong Bing  
   _Findings of ACL 2023_ \[[Paper](https://arxiv.org/abs/2305.11442)\]\[[Code](https://github.com/DAMO-NLP-SG/SSTuning)]\[[Model](https://huggingface.co/collections/DAMO-NLP-SG/sstuning-67cfea1163ae74271045e172)]
 
