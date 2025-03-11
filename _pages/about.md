@@ -16,7 +16,7 @@ My research interests include Low-resource Natural Language Processing, Multilin
 * May-2023 - One paper accepted at ACL 2023.
 * Aug-2021 - Join NTU as a PhD candidate. -->
 
-# Open-Source Projects
+# Open-Sourced Projects
 *  [Babel - Open Multilingual Large Language Models Serving Over 90% of Global Speakers](https://babel-llm.github.io/babel-llm/)   
    Yiran Zhao, **Chaoqun Liu**, Yue Deng, Jiahao Ying, Mahani Aljunied, Zhaodonghui Li, Lidong Bing, Hou Pong Chan, Yu Rong, Deli Zhao, Wenxuan Zhang.             
    \[[Project Page](https://babel-llm.github.io/babel-llm/)\] \[[Model](https://huggingface.co/Tower-Babel)\] \[[Code](https://github.com/babel-llm/babel-llm)\] \[[Technical Report](https://arxiv.org/pdf/2503.00865)\]
