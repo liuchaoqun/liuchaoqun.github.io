@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "sg-SG"
 title                    : "Liu Chaoqun"
 title_separator          : "-"
 name                     : &name "Liu Chaoqun"
@@ -83,11 +83,11 @@ author:
   name             : "Liu Chaoqun"
   avatar           : "profile.png"
   bio              : "PhD student at NTU"
-  location         : "Nanyang Technological University"
+  location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=oKL6xrcAAAAJ&hl=en"
-  email            :
+  email            : "chaoqun001@e.ntu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/chaoqun-liu/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
