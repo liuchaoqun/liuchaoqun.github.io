@@ -17,6 +17,10 @@ My research interests include Low-resource Natural Language Processing, Multilin
 * Aug-2021 - Join NTU as a PhD candidate. -->
 
 # Open-Sourced Projects
+* [SeaLLMs-Audio: Large Audio-Language Models for Southeast Asia](https://damo-nlp-sg.github.io/SeaLLMs-Audio/)
+  **Chaoqun Liu**, Mahani Aljunied, Guizhen Chen, Hou Pong Chan, Weiwen Xu, Yu Rong, Wenxuan Zhang.
+  \[[Project Page](https://damo-nlp-sg.github.io/SeaLLMs-Audio/)\] \[[Model](https://huggingface.co/SeaLLMs/SeaLLMs-Audio-7B)\] \[[DEMO](https://huggingface.co/spaces/SeaLLMs/SeaLLMs-Audio-Demo)\] \[[Code](https://github.com/DAMO-NLP-SG/SeaLLMs-Audio)\]
+
 *  [Babel - Open Multilingual Large Language Models Serving Over 90% of Global Speakers](https://babel-llm.github.io/babel-llm/)   
    Yiran Zhao, **Chaoqun Liu**, Yue Deng, Jiahao Ying, Mahani Aljunied, Zhaodonghui Li, Lidong Bing, Hou Pong Chan, Yu Rong, Deli Zhao, Wenxuan Zhang.             
    \[[Project Page](https://babel-llm.github.io/babel-llm/)\] \[[Model](https://huggingface.co/Tower-Babel)\] \[[Code](https://github.com/babel-llm/babel-llm)\] \[[Technical Report](https://arxiv.org/pdf/2503.00865)\]
