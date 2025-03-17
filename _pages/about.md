@@ -17,7 +17,7 @@ My research interests include Low-resource Natural Language Processing, Multilin
 * Aug-2021 - Join NTU as a PhD candidate. -->
 
 # Open-Sourced Projects
-* [SeaLLMs-Audio: Large Audio-Language Models for Southeast Asia](https://damo-nlp-sg.github.io/SeaLLMs-Audio/)
+* [SeaLLMs-Audio: Large Audio-Language Models for Southeast Asia](https://damo-nlp-sg.github.io/SeaLLMs-Audio/)  
   **Chaoqun Liu**, Mahani Aljunied, Guizhen Chen, Hou Pong Chan, Weiwen Xu, Yu Rong, Wenxuan Zhang.
   \[[Project Page](https://damo-nlp-sg.github.io/SeaLLMs-Audio/)\] \[[Model](https://huggingface.co/SeaLLMs/SeaLLMs-Audio-7B)\] \[[DEMO](https://huggingface.co/spaces/SeaLLMs/SeaLLMs-Audio-Demo)\] \[[Code](https://github.com/DAMO-NLP-SG/SeaLLMs-Audio)\]
 
