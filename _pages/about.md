@@ -18,7 +18,7 @@ My research interests include Low-resource Natural Language Processing, Multilin
 
 # Open-Sourced Projects
 * [SeaLLMs-Audio: Large Audio-Language Models for Southeast Asia](https://damo-nlp-sg.github.io/SeaLLMs-Audio/)  
-  **Chaoqun Liu**, Mahani Aljunied, Guizhen Chen, Hou Pong Chan, Weiwen Xu, Yu Rong, Wenxuan Zhang.
+  **Chaoqun Liu**, Mahani Aljunied, Guizhen Chen, Hou Pong Chan, Weiwen Xu, Yu Rong, Wenxuan Zhang.  
   \[[Project Page](https://damo-nlp-sg.github.io/SeaLLMs-Audio/)\] \[[Model](https://huggingface.co/SeaLLMs/SeaLLMs-Audio-7B)\] \[[DEMO](https://huggingface.co/spaces/SeaLLMs/SeaLLMs-Audio-Demo)\] \[[Code](https://github.com/DAMO-NLP-SG/SeaLLMs-Audio)\]
 
 *  [Babel - Open Multilingual Large Language Models Serving Over 90% of Global Speakers](https://babel-llm.github.io/babel-llm/)   
@@ -34,7 +34,7 @@ My research interests include Low-resource Natural Language Processing, Multilin
    _ACL 2024 System Demostration_ \[[Project Page](https://damo-nlp-sg.github.io/DAMO-SeaLLMs)\] \[[Model](https://huggingface.co/collections/SeaLLMs/seallms-65be16f92e67686440ae29f3)\] \[[DEMO](https://huggingface.co/spaces/SeaLLMs/SeaLLM-Chat)\] \[[Code](https://github.com/DAMO-NLP-SG/SeaLLMs)\] \[[Technical Report](https://arxiv.org/abs/2312.00738)\] 
 
 # Publications \[[Google Scholar](https://scholar.google.com/citations?user=oKL6xrcAAAAJ&hl=en)\]
-* [FINEREASON: Evaluating and Improving LLMs' Deliberate Reasoning through Reflective Puzzle Solving](https://arxiv.org/pdf/2502.20238)
+* [FINEREASON: Evaluating and Improving LLMs' Deliberate Reasoning through Reflective Puzzle Solving](https://arxiv.org/pdf/2502.20238)  
   Guizhen Chen, Weiwen Xu, Hao Zhang, Hou Pong Chan, **Chaoqun Liu**, Lidong Bing, Deli Zhao, Anh Tuan Luu, Yu Rong  
   _arXiv preprint_ [[Paper](https://arxiv.org/pdf/2502.20238)][[Code](https://github.com/DAMO-NLP-SG/FineReason)]
 
@@ -76,7 +76,7 @@ My research interests include Low-resource Natural Language Processing, Multilin
 _IEEE Transactions on Circuits and Systems I: Regular Papers（2017）_ [[Paper]](https://ieeexplore.ieee.org/document/8004459/)
 
 * [A new write-contention based dual-port SRAM PUF with multiple response bits per cell](https://ieeexplore.ieee.org/abstract/document/8050700)  
-  Chao Qun Liu, Yue Zheng, Chip-Hong Chang  
+  **Chao Qun Liu**, Yue Zheng, Chip-Hong Chang  
   _2017 IEEE International Symposium on Circuits and Systems (ISCAS)_ [[Paper]](https://ieeexplore.ieee.org/abstract/document/8050700)
 
 * [Low-power, lightweight and reliability-enhanced current starved inverter based RO PUFs](https://ieeexplore.ieee.org/abstract/document/7804080)  
@@ -84,7 +84,7 @@ _IEEE Transactions on Circuits and Systems I: Regular Papers（2017）_ [[Paper]
   _2016 IEEE Asia Pacific conference on circuits and systems (APCCAS)_ [[Paper]](https://ieeexplore.ieee.org/abstract/document/7804080)
 
 * [Sizing of SRAM cell with voltage biasing techniques for reliability enhancement of memory and PUF functions](https://www.mdpi.com/2079-9268/6/3/16)  
-  Chip-Hong Chang, Chao Qun Liu, Le Zhang, Zhi Hui Kong  
+  Chip-Hong Chang, **Chao Qun Liu**, Le Zhang, Zhi Hui Kong  
   _Journal of Low Power Electronics and Applications (2016)_ [[Paper]](https://www.mdpi.com/2079-9268/6/3/16)
 
 * [Statistical analysis and design of 6T SRAM cell for physical unclonable function with dual application modes](https://ieeexplore.ieee.org/abstract/document/7168907)  
