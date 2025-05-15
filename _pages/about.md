@@ -36,7 +36,7 @@ My research interests include Low-resource Natural Language Processing, Multilin
 # Publications \[[Google Scholar](https://scholar.google.com/citations?user=oKL6xrcAAAAJ&hl=en)\]
 * [FINEREASON: Evaluating and Improving LLMs' Deliberate Reasoning through Reflective Puzzle Solving](https://arxiv.org/pdf/2502.20238)  
   Guizhen Chen, Weiwen Xu, Hao Zhang, Hou Pong Chan, **Chaoqun Liu**, Lidong Bing, Deli Zhao, Anh Tuan Luu, Yu Rong  
-  _arXiv preprint_ [[Paper](https://arxiv.org/pdf/2502.20238)][[Code](https://github.com/DAMO-NLP-SG/FineReason)]
+  _ACL 2025_ [[Paper](https://arxiv.org/pdf/2502.20238)][[Code](https://github.com/DAMO-NLP-SG/FineReason)]
 
 * [Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models](https://arxiv.org/abs/2403.10258)   
   **Chaoqun Liu**, Wenxuan Zhang, Yiran Zhao, Anh Tuan Luu, Lidong Bing   
