@@ -14,6 +14,8 @@ My research interests include Low-resource Natural Language Processing, Multilin
 
 <span style="color: red;">I am seeking full-time opportunities in the field of Large Language Models (LLMs) and Natural Language Processing (NLP), starting in August 2025. Please feel free to get in touch if you have any relevant openings.</span>
 
+Contact: <chaoqun001@e.ntu.edu.sg>
+
 <!-- # News
 * May-2023 - One paper accepted at ACL 2023.
 * Aug-2021 - Join NTU as a PhD candidate. -->
