@@ -21,6 +21,9 @@ Contact: <chaoqun001@e.ntu.edu.sg>
 * Aug-2021 - Join NTU as a PhD candidate. -->
 
 # Open-Sourced Projects
+* [Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning](https://alibaba-damo-academy.github.io/lingshu/) 
+  LASA Team, Weiwen Xu, Hou Pong Chan, Long Li, Mahani Aljunied, Ruifeng Yuan, Jianyu Wang, Chenghao Xiao, Guizhen Chen, **Chaoqun Liu**, Zhaodonghui Li, Yu Sun, Junao Shen, Chaojun Wang, Jie Tan, Deli Zhao, Tingyang Xu, Hao Zhang, Yu Rong. 
+  \[[Project Page](https://alibaba-damo-academy.github.io/lingshu/)\] \[[Model](https://huggingface.co/collections/lingshu-medical-mllm/lingshu-mllms-6847974ca5b5df750f017dad)\] \[[Code](https://github.com/alibaba-damo-academy/MedEvalKit)\] \[[Technical Report]](https://arxiv.org/abs/2506.07044)
 * [SeaLLMs-Audio: Large Audio-Language Models for Southeast Asia](https://damo-nlp-sg.github.io/SeaLLMs-Audio/)  
   **Chaoqun Liu**, Mahani Aljunied, Guizhen Chen, Hou Pong Chan, Weiwen Xu, Yu Rong, Wenxuan Zhang.  
   \[[Project Page](https://damo-nlp-sg.github.io/SeaLLMs-Audio/)\] \[[Model](https://huggingface.co/SeaLLMs/SeaLLMs-Audio-7B)\] \[[DEMO](https://huggingface.co/spaces/SeaLLMs/SeaLLMs-Audio-Demo)\] \[[Code](https://github.com/DAMO-NLP-SG/SeaLLMs-Audio)\]
