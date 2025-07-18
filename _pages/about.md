@@ -12,9 +12,9 @@ Hi! I am I am currently under a joint PhD programme between [Alibaba DAMO Academ
 
 My research interests include Low-resource Natural Language Processing, Multilingual and Multimodal Large Language Models.
 
-<span style="color: red;">I am seeking full-time opportunities in the field of Large Language Models (LLMs) and Natural Language Processing (NLP), starting in August 2025. Please feel free to get in touch if you have any relevant openings.</span>
+<!-- <span style="color: red;">I am seeking full-time opportunities in the field of Large Language Models (LLMs) and Natural Language Processing (NLP), starting in August 2025. Please feel free to get in touch if you have any relevant openings.</span> -->
 
-Contact: <chaoqun001@e.ntu.edu.sg>
+Contact: <chaoqun001 [at] e.ntu.edu.sg>
 
 <!-- # News
 * May-2023 - One paper accepted at ACL 2023.
@@ -61,7 +61,7 @@ Contact: <chaoqun001@e.ntu.edu.sg>
   Yew Ken Chia, Liying Cheng, Hou Pong Chan, **Chaoqun Liu**, Maojia Song, Sharifah Mahani Aljunied, Soujanya Poria, Lidong Bing  
   _arXiv preprint_ [[Paper](https://arxiv.org/pdf/2411.06176)][[Code](https://github.com/DAMO-NLP-SG/multimodal-long-documents)]
 
-* [On the affinity, rationality, and diversity of hierarchical topic modeling](https://arxiv.org/abs/2401.14113)
+* [On the affinity, rationality, and diversity of hierarchical topic modeling](https://arxiv.org/abs/2401.14113)  
   Xiaobao Wu, Fengjun Pan, Thong Nguyen, Yichao Feng, **Chaoqun Liu**, Cong-Duy Nguyen, Anh Tuan Luu  
   _AAAI 2024_ [[Paper](https://arxiv.org/abs/2401.14113)][[Code](https://github.com/bobxwu/TraCo)]
 
@@ -98,6 +98,14 @@ _IEEE Transactions on Circuits and Systems I: Regular Papers（2017）_ [[Paper]
   Le Zhang, Chip-Hong Chang, Zhi Hui Kong, **Chao Qun Liu**  
   **2015 IEEE International Symposium on Circuits and Systems (ISCAS)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/7168907)
 
+# Patents
+* [Voltage droop reduction with a secondary power supply](https://patents.google.com/patent/US11640834B2/en)    
+  Senthilkumar JAYAPAL, Yang Bai, **Chaoqun Liu**, Yipin WU, Chih-Hung Tai  
+  _US Patent 11,640,834 B2_ [[Patent]](https://patents.google.com/patent/US11640834B2/en)
+
+* [Leakage current reduction in a dual rail device](https://patents.google.com/patent/US20200234737A1/en?)  
+  Senthilkumar JAYAPAL, **Chaoqun Liu**, Yipin WU, Soh Chee Keong  
+  _US Patent 20200234737A1_ [[Patent]](https://patents.google.com/patent/US20200234737A1/en?)
 
 # Awards
 * Alibaba Talent Programme Full Scholarship, 2021-2025.
