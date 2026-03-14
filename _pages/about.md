@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am I am currently under a joint PhD programme between [Alibaba DAMO Academy](https://damo.alibaba.com/) and [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/), under the supervision of Prof. [Luu Anh Tuan](https://tuanluu.github.io/). During my PhD, I collaborated extensively with Dr. [Wenxuan Zhang](https://isakzhang.github.io/) and Dr. [Lidong Bing](https://lidongbing.github.io/). Before that, I got my Master of Engineering degree and Bachelor of Engineering degree with First Class Honours at Nanyang Technological University, Singapore.
+Hi! I am an AI Researcher at the Singapore Search & Recommendation Lab, Huawei. Previously, I completed my Ph.D. through a joint programme between [Alibaba DAMO Academy](https://damo.alibaba.com/) and [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/), under the supervision of Prof. [Luu Anh Tuan](https://tuanluu.github.io/). Throughout my PhD, I had the pleasure of working closely with Dr. [Wenxuan Zhang](https://isakzhang.github.io/) and Dr. [Lidong Bing](https://lidongbing.github.io/). Prior to that, I received both my Master of Engineering and Bachelor of Engineering degrees with First Class Honours from Nanyang Technological University, Singapore.
 
-My research interests include Low-resource Natural Language Processing, Multilingual and Multimodal Large Language Models.
+My research interests include Agentic Systems, Multimodal Embedding, Low-resource Natural Language Processing, Multilingual and Multimodal Large Language Models.
 
 <!-- <span style="color: red;">I am seeking full-time opportunities in the field of Large Language Models (LLMs) and Natural Language Processing (NLP), starting in August 2025. Please feel free to get in touch if you have any relevant openings.</span> -->
 
